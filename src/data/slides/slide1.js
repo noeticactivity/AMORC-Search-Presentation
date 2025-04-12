@@ -7,7 +7,7 @@ const slide1 = {
 
 > *"Illuminating Ancient Wisdom with Modern Technology"*
 
-## Presented by the Rosicrucian Digital Knowledge Team
+## Presented by the English Grand Lodge for the Americas
 `
 };
 

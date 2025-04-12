@@ -23,7 +23,7 @@ export API_URL=http://localhost:8001
 streamlit run rosicrucian_chat_app_chroma.py
 \`\`\`
 
-*Developed with ❤️ by the Rosicrucian Digital Knowledge Team*
+*Developed with ❤️ by the English Grand Lodge for the Americas*
 `
 };
 
