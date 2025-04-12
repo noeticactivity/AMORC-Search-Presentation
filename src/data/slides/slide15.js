@@ -5,7 +5,7 @@ const slide15 = {
 
 ## Questions? Ideas? Let's Collaborate!
 
-![Rosicrucian Rose](https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?q=80&w=1000&auto=format&fit=crop)
+![Forest Path](https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1000&auto=format&fit=crop)
 
 ### Get Started
 
@@ -23,7 +23,7 @@ export API_URL=http://localhost:8001
 streamlit run rosicrucian_chat_app_chroma.py
 \`\`\`
 
-*Developed with ❤️ by the EGL*
+*Developed with ❤️ by the Rosicrucian Digital Knowledge Team*
 `
 };
 
