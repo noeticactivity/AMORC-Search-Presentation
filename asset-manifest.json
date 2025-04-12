@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AMORC-Search-Presentation/static/css/main.6f34fee6.css",
-    "main.js": "/AMORC-Search-Presentation/static/js/main.ca7d15bc.js",
+    "main.js": "/AMORC-Search-Presentation/static/js/main.2fdc70f2.js",
     "static/js/349.38775920.chunk.js": "/AMORC-Search-Presentation/static/js/349.38775920.chunk.js",
     "static/js/967.2e6d5dbc.chunk.js": "/AMORC-Search-Presentation/static/js/967.2e6d5dbc.chunk.js",
     "static/js/964.cd46ca74.chunk.js": "/AMORC-Search-Presentation/static/js/964.cd46ca74.chunk.js",
@@ -36,7 +36,7 @@
     "static/js/194.352e9711.chunk.js": "/AMORC-Search-Presentation/static/js/194.352e9711.chunk.js",
     "index.html": "/AMORC-Search-Presentation/index.html",
     "main.6f34fee6.css.map": "/AMORC-Search-Presentation/static/css/main.6f34fee6.css.map",
-    "main.ca7d15bc.js.map": "/AMORC-Search-Presentation/static/js/main.ca7d15bc.js.map",
+    "main.2fdc70f2.js.map": "/AMORC-Search-Presentation/static/js/main.2fdc70f2.js.map",
     "349.38775920.chunk.js.map": "/AMORC-Search-Presentation/static/js/349.38775920.chunk.js.map",
     "967.2e6d5dbc.chunk.js.map": "/AMORC-Search-Presentation/static/js/967.2e6d5dbc.chunk.js.map",
     "964.cd46ca74.chunk.js.map": "/AMORC-Search-Presentation/static/js/964.cd46ca74.chunk.js.map",
@@ -72,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.6f34fee6.css",
-    "static/js/main.ca7d15bc.js"
+    "static/js/main.2fdc70f2.js"
   ]
 }
